@@ -8,9 +8,13 @@
 </a>
 
 - 🏬 Currently working at **ALDI Tech Hub**
+  
 - 🤖 Building AI solutions for internal use
+
 - 💭 Open to collaborate on AI projects
+
 - 🎛️ Rounding up my knowledge with Terraform
+
 - 📫 How to reach me: **rezart392@gmail.com**
 
 <br clear="both"/>
