@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi ✌🏻, I'm <a href="https://github.com/rezart95" target="blank">
+<h1 align="center">Hi ✌🏻, I'm <a href="https://www.linkedin.com/in/rezart-abazi/" target="blank">
 Rezart</a></h1>
 <h3 align="center">An everyday learner focused on Cloud and AI &#127470;&#127475</h3>
 
@@ -7,40 +7,30 @@ Rezart</a></h1>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently working in <a href="https://phoenix.tech/griffyn/" target="blank">Griffyn Robotech Private Limited</a>
+- 🏬 I’m currently working in at <a href="https://www.linkedin.com/company/aldi-technology-hub/posts/?feedView=all" target="blank">ALDI Tech Hub</a>
+- 🤖 Currently Building AI solutions for internal use.
+- 💭 Open to collaborate in AI projects.
+- 🎛️ Currently rounding up my knowledge with Terraform <a href="https://developer.hashicorp.com/terraform" target="blank">Infra as Code</a>
+- 📫 How to reach me **rezart392@gmail.com**
 
-- 🌱 I’m currently Working on Mobile App(React-Native)
-
-- 🤝 I’m available for freelancing.
-
-- 🌱 I’m currently learning Swift && SwiftUI <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a>
-
-- 📝 I regularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc)
-
-- 💬 Ask me about **Reactjs & React-Native**
-
-- 📫 How to reach me **saurabhchavan052@gmail.com**
-
-- 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
 <p align="center">
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/saurabhmchavan/">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/rezart-abazi/">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/100rabhcsmc">
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/rezart95">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
 </p>
 
 ### Live Projects
 
 <!-- BLOG-POST-LIST:START -->
-
-- [Price Tracking](https://dev.to/100rabhcsmc/instagram-profile-picture-download-using-python-n2j)
-- [Finances Analyst](https://dev.to/100rabhcsmc/convert-a-image-to-sketch-using-python-3ip1)
-- [Comming Soon...](https://dev.to/100rabhcsmc/upload-your-project-files-in-github-using-commands-1hn8)
+- [Price Tracking]()
+- [Finances Analyst]()
+- [Comming Soon...]()
 <!-- BLOG-POST-LIST:END -->
 
 ---
