@@ -4,7 +4,7 @@
 </div>
 
 <a target="_blank">
-  <img align="right" top="400" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  <img align="right" height="250" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
 - 🏬 Currently working at **ALDI Tech Hub**
@@ -13,9 +13,7 @@
 - 🎛️ Rounding up my knowledge with Terraform
 - 📫 How to reach me: **rezart392@gmail.com**
 
-<br/>
-
----
+<br clear="both"/>
 
 ### ⚔️ Weapons of Choice
 
@@ -26,14 +24,29 @@
   <a href="https://azure.microsoft.com" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
   </a>
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/AI-000000?style=for-the-badge&logo=openai&logoColor=white" alt="AI"/>
+  </a>
+   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  </a>
   <a href="https://www.terraform.io" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
   </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
+  <a href="https://www.databricks.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks"/>
   </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <a href="https://huggingface.co/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+  </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+  </a>
+  <a href="https://grafana.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/>
+  </a>
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
   </a>
 </p>
 
@@ -43,21 +56,21 @@
 
 <table align="center">
   <tr>
-    <td align="center">
+    <td align="center" style="padding: 0 15px;">
       <a href="#" target="_blank">
         <img src="https://img.icons8.com/plasticine/50/000000/price-tag.png" alt="Price Tracking" width="50" height="50"/>
         <br>
         <sub><b>Price Tracking</b></sub>
       </a>
     </td>
-    <td align="center">
+    <td align="center" style="padding: 0 15px;">
       <a href="#" target="_blank">
         <img src="https://img.icons8.com/plasticine/50/000000/analytics.png" alt="Finances Analyst" width="50" height="50"/>
         <br>
         <sub><b>Finances Analyst</b></sub>
       </a>
     </td>
-    <td align="center">
+    <td align="center" style="padding: 0 15px;">
       <a href="#" target="_blank">
         <img src="https://img.icons8.com/plasticine/50/000000/new.png" alt="Coming Soon" width="50" height="50"/>
         <br>
@@ -69,7 +82,7 @@
 
 ---
 
-### 🤝🏻 Connect with Me
+### 🔗 Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rezart-abazi/" target="_blank">
