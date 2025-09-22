@@ -7,10 +7,10 @@ Rezart</a></h1>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🏬 I’m currently working in at <a href="https://www.linkedin.com/company/aldi-technology-hub/posts/?feedView=all" target="blank">ALDI Tech Hub</a>
-- 🤖 Currently Building AI solutions for internal use.
+- 🏬 Currently working in at <a href="https://www.linkedin.com/company/aldi-technology-hub/posts/?feedView=all" target="blank">ALDI Tech Hub</a>
+- 🤖 Building AI solutions for internal use.
 - 💭 Open to collaborate in AI projects.
-- 🎛️ Currently rounding up my knowledge with Terraform <a href="https://developer.hashicorp.com/terraform" target="blank">Infra as Code</a>
+- 🎛️ Rounding up my knowledge with Terraform <a href="https://developer.hashicorp.com/terraform" target="blank">Infra as Code</a>
 - 📫 How to reach me **rezart392@gmail.com**
 
 <br/>
