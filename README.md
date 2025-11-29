@@ -64,7 +64,7 @@
       <a href="#" target="_blank">
         <img src="https://img.icons8.com/plasticine/50/000000/shopping-bag.png" alt="Fashion Procurement AI" width="50" height="50"/>
         <br>
-        <sub><b>Fashion Procurement AI</b></sub>
+        <sub><b>Fashion Procurement</b></sub>
       </a>
     </td>
     <td align="center" style="padding: 0 15px;">
@@ -78,7 +78,7 @@
       <a href="#" target="_blank">
         <img src="https://img.icons8.com/plasticine/50/000000/box.png" alt="Inventory System" width="50" height="50"/>
         <br>
-        <sub><b>Inventory System</b></sub>
+        <sub><b>Agentic AI Inventory System</b></sub>
       </a>
     </td>
     <td align="center" style="padding: 0 15px;">
@@ -89,10 +89,10 @@
       </a>
     </td>
     <td align="center" style="padding: 0 15px;">
-      <a href="#" target="_blank">
-        <img src="https://img.icons8.com/plasticine/50/000000/gavel.png" alt="Agentic Rag Lawyer" width="50" height="50"/>
+      <a href="https://www.avokatiyt.al/" target="_blank">
+        <img src="https://img.icons8.com/plasticine/50/000000/scales.png" alt="Agentic Rag AI Lawyer" width="50" height="50"/>
         <br>
-        <sub><b>Agentic Rag Lawyer</b></sub>
+        <sub><b>Agentic Rag AI Lawyer</b></sub>
       </a>
     </td>
   </tr>
