@@ -88,6 +88,13 @@
         <sub><b>AI Expense Tracker</b></sub>
       </a>
     </td>
+    <td align="center" style="padding: 0 15px;">
+      <a href="#" target="_blank">
+        <img src="https://img.icons8.com/plasticine/50/000000/gavel.png" alt="Agentic Rag Lawyer" width="50" height="50"/>
+        <br>
+        <sub><b>Agentic Rag Lawyer</b></sub>
+      </a>
+    </td>
   </tr>
 </table>
 
