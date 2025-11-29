@@ -102,4 +102,7 @@
   <a href="https://github.com/rezart95" target="_blank">
     <img src="https://img.icons8.com/doodle/40/000000/github--v1.png" alt="GitHub">
   </a>
+  <a href="https://rezart95.github.io/" target="_blank">
+    <img src="https://img.icons8.com/doodle/40/000000/globe.png" alt="Personal Website">
+  </a>
 </p>
