@@ -74,8 +74,6 @@
         <sub><b>Finances Analyst</b></sub>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" style="padding: 0 15px;">
       <a href="#" target="_blank">
         <img src="https://img.icons8.com/plasticine/50/000000/box.png" alt="Inventory System" width="50" height="50"/>
