@@ -62,23 +62,32 @@
   <tr>
     <td align="center" style="padding: 0 15px;">
       <a href="#" target="_blank">
-        <img src="https://img.icons8.com/plasticine/50/000000/price-tag.png" alt="Price Tracking" width="50" height="50"/>
+        <img src="https://img.icons8.com/plasticine/50/000000/shopping-bag.png" alt="Fashion Procurement AI" width="50" height="50"/>
         <br>
-        <sub><b>Price Tracking</b></sub>
+        <sub><b>Fashion Procurement AI</b></sub>
       </a>
     </td>
     <td align="center" style="padding: 0 15px;">
-      <a href="#" target="_blank">
+      <a href="https://finances-analyst-frontend.onrender.com" target="_blank">
         <img src="https://img.icons8.com/plasticine/50/000000/analytics.png" alt="Finances Analyst" width="50" height="50"/>
         <br>
         <sub><b>Finances Analyst</b></sub>
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" style="padding: 0 15px;">
       <a href="#" target="_blank">
-        <img src="https://img.icons8.com/plasticine/50/000000/new.png" alt="Coming Soon" width="50" height="50"/>
+        <img src="https://img.icons8.com/plasticine/50/000000/box.png" alt="Inventory System" width="50" height="50"/>
         <br>
-        <sub><b>Coming Soon</b></sub>
+        <sub><b>Inventory System</b></sub>
+      </a>
+    </td>
+    <td align="center" style="padding: 0 15px;">
+      <a href="https://bank-expense-tracker-ai.onrender.com" target="_blank">
+        <img src="https://img.icons8.com/plasticine/50/000000/money.png" alt="AI Expense Tracker" width="50" height="50"/>
+        <br>
+        <sub><b>AI Expense Tracker</b></sub>
       </a>
     </td>
   </tr>
