@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>✌🏻Yoo..<a href="https://www.linkedin.com/in/rezart-abazi/" target="_blank"> Rezart here, What's up ☺️</a></h1>
+  <h1>✌🏻Rezart here, What's up ☺️</a></h1>
   <h3>An everyday learner focused on Cloud and AI</h3>
 </div>
 
