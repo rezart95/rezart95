@@ -1,115 +1,78 @@
-<div align="center">
-  <h1> Rezart here ✌🏻</a></h1>
-  <h3>An everyday learner focused on Cloud and AI</h3>
-</div>
-
-<a target="_blank">
-  <img align="right" height="250" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
-
-- 🏬 Currently working at **ALDI Tech Hub**
-  
-- 🤖 Building AI solutions for internal use
-
-- 💭 Open to collaborate on AI projects
-
-- 🎛️ Rounding up my knowledge with Terraform
-
-- 📫 How to reach me: **rezart392@gmail.com**
-
-<br clear="both"/>
-
-### ⚔️ Weapons of Choice
-
 <p align="center">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  </a>
-  <a href="https://azure.microsoft.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/AI-000000?style=for-the-badge&logo=openai&logoColor=white" alt="AI"/>
-  </a>
-   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  </a>
-  <a href="https://www.terraform.io" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
-  </a>
-  <a href="https://www.databricks.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks"/>
-  </a>
-  <a href="https://huggingface.co/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
-  </a>
-  <a href="https://grafana.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/>
-  </a>
-  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-  </a>
+  <img src="assets/board.svg" width="100%" alt="A station departures board. Header: Rezart Abazi, Senior AI Engineer at Motorola Solutions; multi-agent systems on AWS, GCP and Azure. Five services, all live: Footbolski with 20 players, MiredheLire with 19,730 items, FashionPricing with 26 brands, Almanac with a household of two, and My Finances with 1,328 transactions.">
 </p>
 
----
+<p align="center">
+  <b>Senior AI Engineer at Motorola Solutions</b>, designing multi-agent systems, mostly on AWS with some GCP.<br>
+  After hours I build AI products end to end and run them myself. Every service on the board is live, so feel free to ride along.
+</p>
 
-### 🚀 My Projects
+<p align="center">
+  <a href="https://www.linkedin.com/in/rezart-abazi/">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:rezart392@gmail.com">rezart392@gmail.com</a>
+  &nbsp;·&nbsp;
+  <a href="https://rezart95.github.io/">rezart95.github.io</a>
+</p>
 
-<table align="center">
-  <tr>
-    <td align="center" style="padding: 0 15px;">
-      <a href="#" target="_blank">
-        <img src="https://img.icons8.com/plasticine/50/000000/shopping-bag.png" alt="Fashion Procurement AI" width="50" height="50"/>
-        <br>
-        <sub><b>Fashion Procurement</b></sub>
-      </a>
-    </td>
-    <td align="center" style="padding: 0 15px;">
-      <a href="https://finances-analyst-frontend.onrender.com" target="_blank">
-        <img src="https://img.icons8.com/plasticine/50/000000/analytics.png" alt="Finances Analyst" width="50" height="50"/>
-        <br>
-        <sub><b>Finances Analyst</b></sub>
-      </a>
-    </td>
-    <td align="center" style="padding: 0 15px;">
-      <a href="#" target="_blank">
-        <img src="https://img.icons8.com/plasticine/50/000000/box.png" alt="Inventory System" width="50" height="50"/>
-        <br>
-        <sub><b>Agentic AI Inventory System</b></sub>
-      </a>
-    </td>
-    <td align="center" style="padding: 0 15px;">
-      <a href="https://bank-expense-tracker-ai.onrender.com" target="_blank">
-        <img src="https://img.icons8.com/plasticine/50/000000/money.png" alt="AI Expense Tracker" width="50" height="50"/>
-        <br>
-        <sub><b>AI Expense Tracker</b></sub>
-      </a>
-    </td>
-    <td align="center" style="padding: 0 15px;">
-      <a href="https://www.avokatiyt.al/" target="_blank">
-        <img src="https://img.icons8.com/plasticine/50/000000/scales.png" alt="Agentic Rag AI Lawyer" width="50" height="50"/>
-        <br>
-        <sub><b>Agentic Rag AI Lawyer</b></sub>
-      </a>
-    </td>
-  </tr>
+<br>
+
+## Departures
+
+### Footbolski
+**[footbolski.org](https://footbolski.org)** &nbsp;·&nbsp; [source code](https://github.com/rezart95/footbolski)
+
+Runs the weekly pickup football game I play in Kraków: sign-ups with a waitlist, who has paid, and two fair teams. About twenty people have used it every week since May 2026, and the teams now get picked without the usual argument.
+
+**Under the hood.** The model never picks the teams. In a LangGraph pipeline, Claude judges each player, an exhaustive solver builds the split, and Claude explains the result. My first version let the model do everything and left the sides 1.79 rating points apart; the solver gets that down to 0.03.
+
+### MiredheLire
+**[miredhelire.al](https://miredhelire.al)** &nbsp;·&nbsp; built with Illyrian AI
+
+Price comparison for shoppers in Albania. It scrapes Albanian stores and lines up the same product across shops, around 19,730 products in its new catalogue.
+
+**Under the hood.** A crew of specialised Claude agents, each with one job. Haiku reads a product's identity from messy listing titles. A Sonnet agent on the Claude Agent SDK decides which listings are the same product, using MCP tools for catalogue search, web search and page fetching. Sonnet files every product into the category tree. Next in line: an Opus repair agent, built but not yet deployed, that diagnoses broken scrapers and drafts the fixes as pull requests. Deterministic checks gate every verdict, and every model call lands in a cost ledger with a monthly budget.
+
+### FashionPricing
+**[fashionpricing.com](https://fashionpricing.com)**
+
+Competitive pricing intelligence for Polish fashion brands: 26 brands tracked down to the price history of every size and colour.
+
+**Under the hood.** Ask Emily, the in-app analyst: a LangGraph agent on Claude Sonnet with 15 read-only analytics tools, standing behind a Haiku guard that politely turns away anything off-topic. Every conversation is traced in Langfuse.
+
+### Almanac
+**[xtractor.financial-insights.uk](https://xtractor.financial-insights.uk)**
+
+Turns a household's bank statements into a reconciled ledger with analytics. The household in question is mine, all two of us.
+
+**Under the hood.** Categorisation by committee: rules and merchant matching first, then web enrichment through Perplexity and batch classification with Claude, asked two different ways. When the two answers disagree, a human gets the final word in a review queue.
+
+### My Finances Analyst
+**[my.financial-insights.uk](https://my.financial-insights.uk)**
+
+Reads Bank Millennium statements with Azure AI Document Intelligence, sorts every transaction and charts 1,328 real transactions from 2019 to 2022, lockdown years included.
+
+<br>
+
+Also on this line: **[LegalHub](https://legalhub.al)**, a legal assistant for Albanian law, built on retrieval-augmented generation with LangGraph.
+
+## On the job
+
+<table>
+  <tr><td><b>Now</b></td><td>Senior AI Engineer at Motorola Solutions. Multi-agent systems on AWS and GCP.</td></tr>
+  <tr><td><b>Before</b></td><td>ALDI Tech Hub, building internal AI tools on Azure.</td></tr>
 </table>
 
----
+## Toolbox
 
-### 🔗 Connect with Me
+<table>
+  <tr><td><b>Agents</b></td><td>LangGraph, Claude Agent SDK, MCP, Anthropic API, OpenAI API</td></tr>
+  <tr><td><b>Cloud</b></td><td>AWS, GCP, Azure</td></tr>
+  <tr><td><b>Backend</b></td><td>Python, FastAPI, SQLAlchemy, PostgreSQL, Redis</td></tr>
+  <tr><td><b>Frontend</b></td><td>React, Next.js, TypeScript, Tailwind CSS</td></tr>
+  <tr><td><b>Operations</b></td><td>Docker, Terraform, Coolify, Cloudflare, Prometheus, Grafana</td></tr>
+</table>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/rezart-abazi/" target="_blank">
-    <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/rezart95" target="_blank">
-    <img src="https://img.icons8.com/doodle/40/000000/github--v1.png" alt="GitHub">
-  </a>
-  <a href="https://rezart95.github.io/" target="_blank">
-    <img src="https://img.icons8.com/doodle/40/000000/globe.png" alt="Personal Website">
-  </a>
-</p>
+<br>
+
+<p align="center"><sub>Board figures from each project's repo, Nov 2026.</sub></p>
