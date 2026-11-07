@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" width="100%" alt="Rezart Abazi, Senior AI Engineer. Agentic AI, multi-agent systems and RAG: an orchestrator core with AI agents travelling on orbits around it.">
+  <img src="assets/banner.svg" width="100%" alt="Rezart Abazi, Senior AI Engineer. A turning crystal of connections at the centre of orbits for agents, tools and RAG, and memory.">
 </p>
 
 <h3 align="center">My work</h3>
@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  LangGraph · Claude Agent SDK · MCP · RAG · Python · FastAPI · PostgreSQL · React · Docker · AWS · GCP · Azure
+  LangGraph · Langfuse · MCP · RAG · Python · FastAPI · PostgreSQL · React · Docker · AWS · GCP · Azure
 </p>
 
 <p align="center">
