@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" width="100%" alt="Rezart Abazi, Senior AI Engineer at Motorola Solutions. A reference architecture of an agentic AI system: guardrail, orchestrator, specialist agents with tools, retrieval and memory, a verifier with human review, and evals and tracing underneath.">
+  <img src="assets/banner.svg" width="100%" alt="Rezart Abazi, Senior AI Engineer. A reference architecture of an agentic AI system: guardrail, orchestrator, specialist agents with tools, retrieval and memory, a verifier with human review, and evals and tracing underneath.">
 </p>
 
 <p align="center">
