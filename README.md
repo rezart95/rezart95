@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="assets/cover.svg" width="100%" alt="A mid-century magazine cover. Masthead: ABAZI. Senior AI Engineer, Motorola Solutions. Cover line: The Multi-Agent Issue.">
+  <img src="assets/banner.svg" width="100%" alt="Rezart Abazi, Senior AI Engineer at Motorola Solutions. A reference architecture of an agentic AI system: guardrail, orchestrator, specialist agents with tools, retrieval and memory, a verifier with human review, and evals and tracing underneath.">
 </p>
 
 <p align="center">
-  I build multi-agent systems on AWS and GCP at Motorola Solutions.<br>
+  I design agentic and multi-agent AI systems at Motorola Solutions.<br>
   The full stories are on <a href="https://rezart95.github.io/">rezart95.github.io</a>.
 </p>
 
@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  AWS · GCP · Azure · LangGraph · Claude Agent SDK · MCP · Python · FastAPI · PostgreSQL · React · Docker · Terraform
+  LangGraph · Claude Agent SDK · MCP · RAG · Python · FastAPI · PostgreSQL · React · Docker · Terraform · AWS · GCP · Azure
 </p>
 
 <p align="center">
