@@ -19,7 +19,8 @@ Common edits, all in `generate.py`:
 - **Name or title:** the two `<text>` lines under `# identity`.
 
 Icon sources: each app's own PWA icon (Footbolski, MiredheLire, FashionPricing
-`icon-512.png`; Statement Lens rendered from its lens mark; LegalHub
-`apple-touch-icon.png`; Almanac rendered from its `maskable-icon.svg`).
+`icon-512.png`; LegalHub `apple-touch-icon.png`; Fiscal Manager rendered from its
+`maskable-icon.svg`). The ML Thesis tile is a placeholder mark (a classifier's
+S-curve between two classes of points) until the project ships its own icon.
 
 Fonts: Geist and Geist Mono, SIL Open Font License 1.1 (`fonts/OFL.txt`).

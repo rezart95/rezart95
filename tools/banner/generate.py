@@ -225,7 +225,7 @@ lab = (f'<svg xmlns="http://www.w3.org/2000/svg" width="{LW}" height="{TH}" view
 open(f'{REPO}/assets/dock/my-work.svg', 'w', encoding='utf8').write(lab)
 
 PROJECTS = [('footbolski', 'Footbolski'), ('miredhelire', 'MiredheLire'), ('fashionpricing', 'FashionPricing'),
-            ('almanac', 'Almanac'), ('statement-lens', 'Statement Lens'), ('legalhub', 'LegalHub')]
+            ('fiscal-manager', 'Fiscal Manager'), ('legalhub', 'LegalHub'), ('thesis', 'ML Thesis')]
 AW, IS = 140, 64
 for k, (pid, name) in enumerate(PROJECTS):
     im = Image.open(f'{ICONS}/{pid}.png').convert('RGBA').resize((160, 160), Image.LANCZOS)
