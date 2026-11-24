@@ -19,7 +19,7 @@ Common edits, all in `generate.py`:
 - **Name or title:** the two `<text>` lines under `# identity`.
 
 Icon sources: each app's own PWA icon (Footbolski, MiredheLire, FashionPricing
-`icon-512.png`; My Finances `icon-maskable-512.png`; LegalHub
+`icon-512.png`; Statement Lens rendered from its lens mark; LegalHub
 `apple-touch-icon.png`; Almanac rendered from its `maskable-icon.svg`).
 
 Fonts: Geist and Geist Mono, SIL Open Font License 1.1 (`fonts/OFL.txt`).
